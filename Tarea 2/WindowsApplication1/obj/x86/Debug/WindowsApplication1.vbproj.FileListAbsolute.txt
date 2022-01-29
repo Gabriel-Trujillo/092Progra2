@@ -1,0 +1,9 @@
+C:\Users\Omen\OneDrive\Escritorio\Tarea 2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Omen\OneDrive\Escritorio\Tarea 2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Omen\OneDrive\Escritorio\Tarea 2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Omen\OneDrive\Escritorio\Tarea 2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Omen\OneDrive\Escritorio\Tarea 2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Omen\OneDrive\Escritorio\Tarea 2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Omen\OneDrive\Escritorio\Tarea 2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Omen\OneDrive\Escritorio\Tarea 2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Omen\OneDrive\Escritorio\Tarea 2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
