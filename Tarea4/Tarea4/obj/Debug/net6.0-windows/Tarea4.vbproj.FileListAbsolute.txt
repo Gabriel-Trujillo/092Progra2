@@ -1,0 +1,17 @@
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.vbproj.AssemblyReference.cache
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.Form1.resources
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.vbproj.GenerateResource.cache
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.AssemblyInfoInputs.cache
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.AssemblyInfo.vb
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.vbproj.CoreCompileInputs.cache
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\bin\Debug\net6.0-windows\Tarea4.exe
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\bin\Debug\net6.0-windows\Tarea4.deps.json
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\bin\Debug\net6.0-windows\Tarea4.runtimeconfig.json
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\bin\Debug\net6.0-windows\Tarea4.dll
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\bin\Debug\net6.0-windows\ref\Tarea4.dll
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\bin\Debug\net6.0-windows\Tarea4.pdb
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.dll
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\ref\Tarea4.dll
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.pdb
+C:\Users\Omen\OneDrive\Escritorio\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.genruntimeconfig.cache
