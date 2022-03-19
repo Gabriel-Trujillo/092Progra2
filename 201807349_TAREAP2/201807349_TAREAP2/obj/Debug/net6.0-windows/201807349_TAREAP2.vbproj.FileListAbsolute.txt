@@ -1,0 +1,17 @@
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\bin\Debug\net6.0-windows\201807349_TAREAP2.exe
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\bin\Debug\net6.0-windows\201807349_TAREAP2.deps.json
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\bin\Debug\net6.0-windows\201807349_TAREAP2.runtimeconfig.json
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\bin\Debug\net6.0-windows\201807349_TAREAP2.dll
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\bin\Debug\net6.0-windows\ref\201807349_TAREAP2.dll
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\bin\Debug\net6.0-windows\201807349_TAREAP2.pdb
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\201807349_TAREAP2.vbproj.AssemblyReference.cache
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\_201807349_TAREAP2.Form1.resources
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\201807349_TAREAP2.vbproj.GenerateResource.cache
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\201807349_TAREAP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\201807349_TAREAP2.AssemblyInfoInputs.cache
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\201807349_TAREAP2.AssemblyInfo.vb
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\201807349_TAREAP2.vbproj.CoreCompileInputs.cache
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\201807349_TAREAP2.dll
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\ref\201807349_TAREAP2.dll
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\201807349_TAREAP2.pdb
+C:\Users\Omen\OneDrive\Escritorio\201807349_TAREAP2\201807349_TAREAP2\obj\Debug\net6.0-windows\201807349_TAREAP2.genruntimeconfig.cache
