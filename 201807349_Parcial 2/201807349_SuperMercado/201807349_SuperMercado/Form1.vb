@@ -5,7 +5,7 @@ Public Class Form1
 
             NoInvent(z) = Val(TextBox1.Text)
             NoPedido(z) = Val(TextBox2.Text)
-            cond = NoInvent(6) / NoPedido(6)
+            cond = NoInvent(z) / NoPedido(z)
 
             If NoInvent(z) >= NoPedido(6) Then
                 limit = NoInvent(z) Mod NoPedido(z)
@@ -82,8 +82,12 @@ Public Class Form1
             TotPagar(z) = valor - DescTotal(z)
 
             z = z + 1
-
-
+            TextBox1.Clear()
+            TextBox2.Clear()
+            RadioButton1.Checked = False
+            RadioButton2.Checked = False
+            RadioButton3.Checked = False
+            RadioButton4.Checked = False
         End If
     End Sub
 
@@ -118,8 +122,25 @@ Public Class Form1
 
         If (MsgBox("DESEA SALIR", vbQuestion + vbYesNo, "Mensaje Salida") = vbYes) Then
             End
+        Else
+            Dim qwe As Byte
+            DataGridView1.Rows.Clear()
+            For I = 0 To 7
+                NoInvent(qwe) = Nothing
+                NoPedido(qwe) = Nothing
+                NomProducto(qwe) = Nothing
+                DescTotal(qwe) = Nothing
+                TotPagar(qwe) = Nothing
 
 
+            Next I
+            z = 0
+            TextBox1.Clear()
+            TextBox2.Clear()
+            RadioButton1.Checked = False
+            RadioButton2.Checked = False
+            RadioButton3.Checked = False
+            RadioButton4.Checked = False
         End If
     End Sub
 End Class

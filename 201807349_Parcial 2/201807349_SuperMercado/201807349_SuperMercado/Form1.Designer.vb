@@ -29,15 +29,15 @@ Partial Class Form1
         Me.MostrarDataGriedViewToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SalirToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.RadioButton1 = New System.Windows.Forms.RadioButton()
-        Me.RadioButton2 = New System.Windows.Forms.RadioButton()
-        Me.RadioButton3 = New System.Windows.Forms.RadioButton()
         Me.RadioButton4 = New System.Windows.Forms.RadioButton()
+        Me.RadioButton3 = New System.Windows.Forms.RadioButton()
+        Me.RadioButton2 = New System.Windows.Forms.RadioButton()
+        Me.RadioButton1 = New System.Windows.Forms.RadioButton()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Column1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Column2 = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -56,38 +56,38 @@ Partial Class Form1
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AceptarToolStripMenuItem, Me.LimpiarDataGriedViewToolStripMenuItem, Me.LimpiarVectoresToolStripMenuItem, Me.MostrarDataGriedViewToolStripMenuItem, Me.SalirToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(993, 28)
+        Me.MenuStrip1.Size = New System.Drawing.Size(993, 30)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
         'AceptarToolStripMenuItem
         '
         Me.AceptarToolStripMenuItem.Name = "AceptarToolStripMenuItem"
-        Me.AceptarToolStripMenuItem.Size = New System.Drawing.Size(75, 24)
+        Me.AceptarToolStripMenuItem.Size = New System.Drawing.Size(75, 26)
         Me.AceptarToolStripMenuItem.Text = "Aceptar"
         '
         'LimpiarDataGriedViewToolStripMenuItem
         '
         Me.LimpiarDataGriedViewToolStripMenuItem.Name = "LimpiarDataGriedViewToolStripMenuItem"
-        Me.LimpiarDataGriedViewToolStripMenuItem.Size = New System.Drawing.Size(177, 24)
+        Me.LimpiarDataGriedViewToolStripMenuItem.Size = New System.Drawing.Size(177, 26)
         Me.LimpiarDataGriedViewToolStripMenuItem.Text = "Limpiar DataGriedView"
         '
         'LimpiarVectoresToolStripMenuItem
         '
         Me.LimpiarVectoresToolStripMenuItem.Name = "LimpiarVectoresToolStripMenuItem"
-        Me.LimpiarVectoresToolStripMenuItem.Size = New System.Drawing.Size(133, 24)
+        Me.LimpiarVectoresToolStripMenuItem.Size = New System.Drawing.Size(133, 26)
         Me.LimpiarVectoresToolStripMenuItem.Text = "Limpiar Vectores"
         '
         'MostrarDataGriedViewToolStripMenuItem
         '
         Me.MostrarDataGriedViewToolStripMenuItem.Name = "MostrarDataGriedViewToolStripMenuItem"
-        Me.MostrarDataGriedViewToolStripMenuItem.Size = New System.Drawing.Size(178, 24)
+        Me.MostrarDataGriedViewToolStripMenuItem.Size = New System.Drawing.Size(178, 26)
         Me.MostrarDataGriedViewToolStripMenuItem.Text = "Mostrar DataGriedView"
         '
         'SalirToolStripMenuItem
         '
         Me.SalirToolStripMenuItem.Name = "SalirToolStripMenuItem"
-        Me.SalirToolStripMenuItem.Size = New System.Drawing.Size(52, 24)
+        Me.SalirToolStripMenuItem.Size = New System.Drawing.Size(52, 26)
         Me.SalirToolStripMenuItem.Text = "Salir"
         '
         'GroupBox1
@@ -103,49 +103,49 @@ Partial Class Form1
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Tipo de paquete"
         '
-        'RadioButton1
+        'RadioButton4
         '
-        Me.RadioButton1.AutoSize = True
-        Me.RadioButton1.Location = New System.Drawing.Point(23, 40)
-        Me.RadioButton1.Name = "RadioButton1"
-        Me.RadioButton1.Size = New System.Drawing.Size(115, 21)
-        Me.RadioButton1.TabIndex = 0
-        Me.RadioButton1.TabStop = True
-        Me.RadioButton1.Text = "RadioButton1"
-        Me.RadioButton1.UseVisualStyleBackColor = True
-        '
-        'RadioButton2
-        '
-        Me.RadioButton2.AutoSize = True
-        Me.RadioButton2.Location = New System.Drawing.Point(23, 87)
-        Me.RadioButton2.Name = "RadioButton2"
-        Me.RadioButton2.Size = New System.Drawing.Size(115, 21)
-        Me.RadioButton2.TabIndex = 1
-        Me.RadioButton2.TabStop = True
-        Me.RadioButton2.Text = "RadioButton2"
-        Me.RadioButton2.UseVisualStyleBackColor = True
+        Me.RadioButton4.AutoSize = True
+        Me.RadioButton4.Location = New System.Drawing.Point(23, 184)
+        Me.RadioButton4.Name = "RadioButton4"
+        Me.RadioButton4.Size = New System.Drawing.Size(81, 21)
+        Me.RadioButton4.TabIndex = 3
+        Me.RadioButton4.TabStop = True
+        Me.RadioButton4.Text = "Baterias"
+        Me.RadioButton4.UseVisualStyleBackColor = True
         '
         'RadioButton3
         '
         Me.RadioButton3.AutoSize = True
         Me.RadioButton3.Location = New System.Drawing.Point(23, 133)
         Me.RadioButton3.Name = "RadioButton3"
-        Me.RadioButton3.Size = New System.Drawing.Size(115, 21)
+        Me.RadioButton3.Size = New System.Drawing.Size(81, 21)
         Me.RadioButton3.TabIndex = 2
         Me.RadioButton3.TabStop = True
-        Me.RadioButton3.Text = "RadioButton3"
+        Me.RadioButton3.Text = "Galletas"
         Me.RadioButton3.UseVisualStyleBackColor = True
         '
-        'RadioButton4
+        'RadioButton2
         '
-        Me.RadioButton4.AutoSize = True
-        Me.RadioButton4.Location = New System.Drawing.Point(23, 184)
-        Me.RadioButton4.Name = "RadioButton4"
-        Me.RadioButton4.Size = New System.Drawing.Size(115, 21)
-        Me.RadioButton4.TabIndex = 3
-        Me.RadioButton4.TabStop = True
-        Me.RadioButton4.Text = "RadioButton4"
-        Me.RadioButton4.UseVisualStyleBackColor = True
+        Me.RadioButton2.AutoSize = True
+        Me.RadioButton2.Location = New System.Drawing.Point(23, 87)
+        Me.RadioButton2.Name = "RadioButton2"
+        Me.RadioButton2.Size = New System.Drawing.Size(77, 21)
+        Me.RadioButton2.TabIndex = 1
+        Me.RadioButton2.TabStop = True
+        Me.RadioButton2.Text = "Frituras"
+        Me.RadioButton2.UseVisualStyleBackColor = True
+        '
+        'RadioButton1
+        '
+        Me.RadioButton1.AutoSize = True
+        Me.RadioButton1.Location = New System.Drawing.Point(23, 40)
+        Me.RadioButton1.Name = "RadioButton1"
+        Me.RadioButton1.Size = New System.Drawing.Size(67, 21)
+        Me.RadioButton1.TabIndex = 0
+        Me.RadioButton1.TabStop = True
+        Me.RadioButton1.Text = "Jugos"
+        Me.RadioButton1.UseVisualStyleBackColor = True
         '
         'GroupBox2
         '
@@ -160,14 +160,19 @@ Partial Class Form1
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "GroupBox2"
         '
-        'Label1
+        'TextBox2
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(21, 38)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(121, 17)
-        Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Ingrese Inventario"
+        Me.TextBox2.Location = New System.Drawing.Point(24, 149)
+        Me.TextBox2.Name = "TextBox2"
+        Me.TextBox2.Size = New System.Drawing.Size(100, 22)
+        Me.TextBox2.TabIndex = 3
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(24, 58)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(100, 22)
+        Me.TextBox1.TabIndex = 2
         '
         'Label2
         '
@@ -178,19 +183,14 @@ Partial Class Form1
         Me.Label2.TabIndex = 1
         Me.Label2.Text = "Ingrese pedido por pack"
         '
-        'TextBox1
+        'Label1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(24, 58)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(100, 22)
-        Me.TextBox1.TabIndex = 2
-        '
-        'TextBox2
-        '
-        Me.TextBox2.Location = New System.Drawing.Point(24, 149)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(100, 22)
-        Me.TextBox2.TabIndex = 3
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(21, 38)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(121, 17)
+        Me.Label1.TabIndex = 0
+        Me.Label1.Text = "Ingrese Inventario"
         '
         'DataGridView1
         '
@@ -249,7 +249,7 @@ Partial Class Form1
         Me.Controls.Add(Me.MenuStrip1)
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Calculo pedido de bodega"
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
         Me.GroupBox1.ResumeLayout(False)
