@@ -1,0 +1,24 @@
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\bin\Debug\201807349_SuperMercado.exe.config
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\bin\Debug\201807349_SuperMercado.exe
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\bin\Debug\201807349_SuperMercado.pdb
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\bin\Debug\201807349_SuperMercado.xml
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.vbprojAssemblyReference.cache
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\_201807349_SuperMercado.Form1.resources
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\_201807349_SuperMercado.Resources.resources
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.vbproj.GenerateResource.cache
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.vbproj.CoreCompileInputs.cache
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.exe
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.xml
+C:\Users\LUDVIN MEJIA\source\repos\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.pdb
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\bin\Debug\201807349_SuperMercado.exe.config
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\bin\Debug\201807349_SuperMercado.exe
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\bin\Debug\201807349_SuperMercado.pdb
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\bin\Debug\201807349_SuperMercado.xml
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.vbprojAssemblyReference.cache
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\_201807349_SuperMercado.Form1.resources
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\_201807349_SuperMercado.Resources.resources
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.vbproj.GenerateResource.cache
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.vbproj.CoreCompileInputs.cache
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.exe
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.xml
+C:\Users\LUDVIN MEJIA\source\repos\201807349_Parcial 2\201807349_SuperMercado\201807349_SuperMercado\obj\Debug\201807349_SuperMercado.pdb
