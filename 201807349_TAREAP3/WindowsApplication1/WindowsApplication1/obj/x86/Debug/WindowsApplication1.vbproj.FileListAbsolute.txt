@@ -1,0 +1,57 @@
+C:\Users\Herman Veliz\Documents\USAC\2017\Primer Semestre\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Herman Veliz\Documents\USAC\2017\Primer Semestre\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Herman Veliz\Documents\USAC\2017\Primer Semestre\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Herman Veliz\Documents\USAC\2017\Primer Semestre\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Herman Veliz\Documents\USAC\2017\Primer Semestre\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Herman Veliz\Documents\USAC\2017\Primer Semestre\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Herman Veliz\Documents\USAC\2017\Primer Semestre\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Herman Veliz\Documents\USAC\2017\Primer Semestre\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Herman Veliz\Documents\USAC\2017\Primer Semestre\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Herman Veliz\Documents\USAC\2020\Semestre 1\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Herman Veliz\Documents\USAC\2020\Semestre 1\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Herman Veliz\Documents\USAC\2020\Semestre 1\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Herman Veliz\Documents\USAC\2020\Semestre 1\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Herman Veliz\Documents\USAC\2020\Semestre 1\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Herman Veliz\Documents\USAC\2020\Semestre 1\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Herman Veliz\Documents\USAC\2020\Semestre 1\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Herman Veliz\Documents\USAC\2020\Semestre 1\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Herman Veliz\Documents\USAC\2020\Semestre 1\Progra 2\EjemploVectoresCompleto\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\EjemploVectoresCompleto - copia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\EjemploVectoresCompleto - copia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\EjemploVectoresCompleto - copia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\EjemploVectoresCompleto - copia\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\EjemploVectoresCompleto - copia\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\EjemploVectoresCompleto - copia\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\EjemploVectoresCompleto - copia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\EjemploVectoresCompleto - copia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\EjemploVectoresCompleto - copia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Herman Veliz\Documents\USAC\PROYECTOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Herman Veliz\Documents\USAC\EJEMPLOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Herman Veliz\Documents\USAC\EJEMPLOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Herman Veliz\Documents\USAC\EJEMPLOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Herman Veliz\Documents\USAC\EJEMPLOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Herman Veliz\Documents\USAC\EJEMPLOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Herman Veliz\Documents\USAC\EJEMPLOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Herman Veliz\Documents\USAC\EJEMPLOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Herman Veliz\Documents\USAC\EJEMPLOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Herman Veliz\Documents\USAC\EJEMPLOS DE PROGRAMACIÓN 2\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\HP\Desktop\BACKUO VELIZ\Documents\USAC\PROGRA 2 EJEMPLOS PROYECTOS\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\HP\Desktop\BACKUO VELIZ\Documents\USAC\PROGRA 2 EJEMPLOS PROYECTOS\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\HP\Desktop\BACKUO VELIZ\Documents\USAC\PROGRA 2 EJEMPLOS PROYECTOS\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\HP\Desktop\BACKUO VELIZ\Documents\USAC\PROGRA 2 EJEMPLOS PROYECTOS\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\HP\Desktop\BACKUO VELIZ\Documents\USAC\PROGRA 2 EJEMPLOS PROYECTOS\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\HP\Desktop\BACKUO VELIZ\Documents\USAC\PROGRA 2 EJEMPLOS PROYECTOS\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\HP\Desktop\BACKUO VELIZ\Documents\USAC\PROGRA 2 EJEMPLOS PROYECTOS\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\HP\Desktop\BACKUO VELIZ\Documents\USAC\PROGRA 2 EJEMPLOS PROYECTOS\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\HP\Desktop\BACKUO VELIZ\Documents\USAC\PROGRA 2 EJEMPLOS PROYECTOS\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Omen\OneDrive\Escritorio\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Omen\OneDrive\Escritorio\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Omen\OneDrive\Escritorio\Ejemplo_Vectores_Completo\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
